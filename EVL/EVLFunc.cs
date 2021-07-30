@@ -1,11 +1,11 @@
 ﻿using System;
 
-namespace EVL
+namespace EVLLibrary
 {
 	/// <summary>
 	/// EVL library.
 	/// </summary>
-	public static class EVLLibrary
+	public static class EVLFunc
 	{
 		/// <summary>
 		/// Return the value from fallback function if main function throws exception.
